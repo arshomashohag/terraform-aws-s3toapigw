@@ -1,0 +1,9 @@
+layers/*
+layers/pytz/*
+layers/pandas/python/lib/python3.7/site-packages/pytz/zoneinfo/UCT
+.terraform
+lambdas/.idea
+lambdas/venv
+terraform.tfstate.backup
+.terraform.lock.hcl
+!.gitignore
